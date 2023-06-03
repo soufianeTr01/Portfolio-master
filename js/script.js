@@ -23,7 +23,7 @@ ScrollReveal().reveal('.home-img, .services-container, portfolio-box, .contact f
 /* -------------------------typed js -------------------------*/
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Web developer', '23 years old'],
+    strings: ['Web developer', '21 years old'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
